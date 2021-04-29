@@ -1,0 +1,14 @@
+/* ==UserStyle==
+@name           Pronote Resizer
+@namespace      rafalou38/pronote_resizer.user.css
+@author         rafalou38
+@description    `permet de **redimesioner** le champs de text sur les communications de **pronote**.`
+@version        1.0.0
+@license        MIT
+==/UserStyle== */
+
+@-moz-document domain("biblio.editions-bordas.fr") {
+  .watermark {
+    display: none;
+  }
+}

@@ -1,0 +1,16 @@
+/* ==UserStyle==
+@name           Pronote Selector
+@namespace      rafalou38/pronote_selector.user.css
+@author         rafalou38
+@description    `Permets de sélectionner du texte sur pronote`
+@version        0.1.3
+@license        MIT
+==/UserStyle== */
+
+@-moz-document domain("0383243u.index-education.net") {
+  .as-content,
+  .BlocPastille,
+  .Fenetre_Scroll {
+    user-select: text;
+  }
+}
