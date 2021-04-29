@@ -2,7 +2,7 @@
 
 Ce style vous permet de retirer les **watermarks** sur le manuel de maths.
 
-[![ajouter a stylus](/images/add_fr.svg)](./style.user.css)
+[![ajouter a stylus](/images/add_fr.svg)](https://raw.githubusercontent.com/rafalou38/stylus-styles/master/styles/maths_manual_watermark/style.user.css)./style.user.css)
 
 ## resultat 😎
 

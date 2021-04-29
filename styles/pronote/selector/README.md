@@ -2,7 +2,7 @@
 
 Ce style vous permet de **selectioner** le texte sur **pronote**.
 
-[![ajouter a stylus](/images/add_fr.svg)](./pronote_selector.user.css)
+[![ajouter a stylus](/images/add_fr.svg)](https://raw.githubusercontent.com/rafalou38/stylus-styles/master/styles/pronote/selector/style.user.css))
 
 ## resulta 😎
 
