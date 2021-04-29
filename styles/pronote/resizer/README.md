@@ -5,6 +5,12 @@ a la taille que vous voulez.
 
 [![ajouter a stylus](/images/add_fr.svg)](https://raw.githubusercontent.com/rafalou38/stylus-styles/master/styles/pronote/resizer/style.user.css)
 
+## s'applique a
+
+```md
+0383243u.index-education.net
+```
+
 ## resultat 😎
 
 ![image d'exemple](./exemples/exemple.png)
