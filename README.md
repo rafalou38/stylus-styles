@@ -11,7 +11,7 @@ Stylus is a free extension used to apply styles to websites.
 Download the extension:
 
 - [for chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=fr)
-- [for fiefox](https://addons.mozilla.org/fr/firefox/addon/styl-us/)
+- [for firefox](https://addons.mozilla.org/fr/firefox/addon/styl-us/)
 
 ## Styles list 🖌️
 

@@ -11,7 +11,7 @@ Stylus est une extension gratuite qui permets d'appliquer des styles customizée
 telcharger l'extension:
 
 - [pour chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=fr)
-- [pour fiefox](https://addons.mozilla.org/fr/firefox/addon/styl-us/)
+- [pour firefox](https://addons.mozilla.org/fr/firefox/addon/styl-us/)
 
 ## liste des styles 🖌️
 
