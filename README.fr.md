@@ -6,7 +6,6 @@ Ce repo contient tous les styles que j'ai crée pour l'extension stylus.
 
 ## Install Stylus 📥
 
-Stylus is a free extension used to apply styles to websites.
 Stylus est une extension gratuite qui permets d'appliquer des styles customizées sur des pages web
 
 telcharger l'extension:
