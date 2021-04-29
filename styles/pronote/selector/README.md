@@ -2,7 +2,7 @@
 
 Ce style vous permet de **selectioner** le texte sur **pronote**.
 
-[![ajouter a stylus](/images/add_fr.svg)](https://raw.githubusercontent.com/rafalou38/stylus-styles/master/styles/pronote/selector/style.user.css))
+[![ajouter a stylus](/images/add_fr.svg)](https://raw.githubusercontent.com/rafalou38/stylus-styles/master/styles/pronote/selector/style.user.css)
 
 ## resulta 😎
 
@@ -32,4 +32,4 @@ Si ce style vous plait cliquez sur **l'etoile** en haut a gauche et **partagez**
 <br>
 <br>
 
-[![revenir a la liste](/images/revenir%20a%20la%20liste.svg)](/)
+[![revenir a la liste](/images/revenir%20a%20la%20liste.svg)](https://github.com/rafalou38/stylus-styles/)

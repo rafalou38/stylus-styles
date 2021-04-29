@@ -3,7 +3,7 @@
 Ce style vous permet de **redimesioner** le minuscule champs de text sur les communications
 a la taille que vous voulez.
 
-[![ajouter a stylus](/images/add_fr.svg)](https://raw.githubusercontent.com/rafalou38/stylus-styles/master/styles/pronote/resizer/style.user.css))
+[![ajouter a stylus](/images/add_fr.svg)](https://raw.githubusercontent.com/rafalou38/stylus-styles/master/styles/pronote/resizer/style.user.css)
 
 ## resultat 😎
 
@@ -31,4 +31,4 @@ Si ce style vous plait cliquez sur **l'etoile** en haut a gauche et **partagez**
 <br>
 <br>
 
-[![revenir a la liste](/images/revenir%20a%20la%20liste.svg)](/)
+[![revenir a la liste](/images/revenir%20a%20la%20liste.svg)](https://github.com/rafalou38/stylus-styles/)
