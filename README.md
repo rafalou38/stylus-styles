@@ -20,3 +20,5 @@ Download the extension:
    2. [pronote resizable comunications](./styles/pronote/resizer)
 2. manuel de maths:
    1. [watermak remover](./styles/maths_manual_watermark)
+3. factorio.zone:
+   1. [dark theme](./styles/maths_manual_watermark)

@@ -20,3 +20,5 @@ telcharger l'extension:
    2. [pronote comunication redimensionable](./styles/pronote/resizer)
 2. manuel de maths:
    1. [enlever les watermak](./styles/maths_manual_watermark)
+3. factorio.zone:
+   1. [theme sombre](./styles/maths_manual_watermark)
